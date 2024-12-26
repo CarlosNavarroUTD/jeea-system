@@ -1,0 +1,25 @@
+# Ignorar virtual environments
+backend/venv/
+
+# Ignorar bases de datos locales
+backend/db.sqlite3
+
+# Ignorar configuración personal
+backend/.env
+
+# Ignorar caché de Python
+**/__pycache__/
+**/*.py[cod]
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar dependencias y compilaciones de Node.js
+frontend/node_modules/
+
+# Ignorar archivos de salida de compilación (si aplica)
+frontend/.next/
+
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
