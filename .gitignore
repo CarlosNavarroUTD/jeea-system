@@ -23,3 +23,7 @@ frontend/.next/
 # Ignorar archivos temporales del sistema operativo
 .DS_Store
 Thumbs.db
+
+
+
+.gitpass
